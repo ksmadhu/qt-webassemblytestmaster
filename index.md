@@ -8,7 +8,7 @@ They may not work properly in a browser of smartphone.
 ![deform]({{ site.baseurl }}/assets/images/deform.png "deform"){:width="380px"}
 ![tetrix]({{ site.baseurl }}/assets/images/tetrix.png "tetrix"){:width="380px"}
 
- * [hello window](https://treefrogframework.github.io/qt-webassembly-examples/hellowindow/){:target="_blank"}
+ * [hello window](https://ksmadhu.github.io/qt-webassembly-examples/hellowindow/){:target="_blank"}
  * [analog clock](https://treefrogframework.github.io/qt-webassembly-examples/analogclock/){:target="_blank"}
  * [digital clock](https://treefrogframework.github.io/qt-webassembly-examples/digitalclock/){:target="_blank"}
  * [calculator](https://treefrogframework.github.io/qt-webassembly-examples/calculator/){:target="_blank"}
@@ -26,6 +26,7 @@ They may not work properly in a browser of smartphone.
  * [composition](https://treefrogframework.github.io/qt-webassembly-examples/composition/){:target="_blank"}
  * [colliding mice](https://treefrogframework.github.io/qt-webassembly-examples/collidingmice/){:target="_blank"}
  * [elastic nodes](https://treefrogframework.github.io/qt-webassembly-examples/elasticnodes/){:target="_blank"}
+ * [qwebtest](https://ksmadhu.github.io/qt-webassembly-examples/qwebtest/){:target="_blank"}
 
 
 See [Qt Examples page](https://doc.qt.io/qt-5/qtexamplesandtutorials.html){:target="_blank"} <i class="fas fa-external-link-alt"></i>.
